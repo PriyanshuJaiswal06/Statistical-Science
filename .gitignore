@@ -1,0 +1,42 @@
+# Python
+
+**pycache**/
+*.py[cod]
+*.pyo
+.venv/
+venv/
+env/
+
+# Jupyter Notebook
+
+.ipynb_checkpoints/
+
+# Compiled files
+
+*.exe
+*.out
+*.o
+*.obj
+
+# C/C++ build files
+
+build/
+bin/
+cmake-build-*/
+
+# IDE and editor files
+
+.vscode/
+.idea/
+
+# OS generated files
+
+.DS_Store
+Thumbs.db
+
+# Temporary files
+
+*.tmp
+*.temp
+*.swp
+*.swo
